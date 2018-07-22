@@ -102,3 +102,6 @@ And again for Python 2 (after ``deactivate``)::
     pip2 install -e .
     pip2 install -r dev_requirements.txt
     py.test
+
+
+
